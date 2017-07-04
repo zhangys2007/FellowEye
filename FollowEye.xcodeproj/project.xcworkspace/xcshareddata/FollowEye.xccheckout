@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>251064F1-E700-47A3-A43A-1F7E79955A71</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FollowEye</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>129694D55E1A6F9F01D46D9E3E3139BFB0A946A5</key>
+		<string>git.oschina.net:doubeizhucele/text123456.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FollowEye/FollowEye.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>129694D55E1A6F9F01D46D9E3E3139BFB0A946A5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.oschina.net:doubeizhucele/text123456.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>129694D55E1A6F9F01D46D9E3E3139BFB0A946A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>129694D55E1A6F9F01D46D9E3E3139BFB0A946A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>text123456</string>
+		</dict>
+	</array>
+</dict>
+</plist>
